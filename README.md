@@ -3,6 +3,7 @@
 ## Profile
 
 🎓 **Undergraduate Student** | IoT Engineering, Jiangsu University
+
 💻 **Aspiring Software Engineer** | Passionate about Java, Python, and Deep Learning  
 
 **Email**: [HolmesAmzish86@outlook.com](mailto:HolmesAmzish86@outlook.com)
@@ -14,9 +15,10 @@
 **Age**: 20
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HolmesAmzish&show_icons=true" alt="GitHub stats" style="width: 54%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolmesAmzish&layout=compact" alt="Top Langs" style="width: 41%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HolmesAmzish&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 54%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolmesAmzish&layout=compact&theme=transparent" alt="Top Langs" style="width: 41%;">
 </div>
+
 
 
 ## Technical Skills
@@ -29,10 +31,15 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
+  <img src="https://img.shields.io/badge/MyBatis-%23FF6F00.svg?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </div>
 
 
