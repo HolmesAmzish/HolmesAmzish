@@ -2,40 +2,29 @@
 
 ## Profile
 
-🎓 **Undergraduate Student** | IoT Engineering, Jiangsu University
+💻 **Aspiring Software Engineer** | Passionate about Web Service, CV and Frontend.  
 
-💻 **Aspiring Software Engineer** | Passionate about Java, Python, and Deep Learning  
+**Email Contact**: [HolmesAmzish86@outlook.com](mailto:HolmesAmzish86@outlook.com)
 
-**Email**: [HolmesAmzish86@outlook.com](mailto:HolmesAmzish86@outlook.com)
+**Website**: [My Blog](http://blog.arorms.cn)
 
-**Website**: [arorms.cn](http://arorms.cn)
-
-**Education**: IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University (江苏大学计算机科学与通信工程学院物联网工程)
+**Education**: Undergraduate, IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University (江苏大学计算机科学与通信工程学院物联网工程)
 
 **Age**: 20
 
 ## Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
-  <img src="https://img.shields.io/badge/ONNX-%239077E7.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</div>
+**Machine Learning and Computer Vision**: 
+
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/ONNX-%239077E7.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
+
+**Software Engineering**: 
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+
+**Operation and Maintenance**: 
+
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=HolmesAmzish&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 54%;">
@@ -46,19 +35,22 @@
 
 ## Projects
 
-### [ValleyCommunity](https://github.com/HolmesAmzish/ValleyCommunity)  
-**Independent Development** | Freshman Year (2024.1 - 2024.3)  
-- Built an online community platform using **PHP**.
-- Designed a responsive frontend with **Bootstrap** and stored user data using **MySQL**.
-- Integrated features such as user registration, posts, and comments.
+
+### <img src="https://raw.githubusercontent.com/HolmesAmzish/SteelDefectDetection/refs/heads/master/view/icon/sdd-logo.png" width=5%>[Steel Defect Detection](https://github.com/HolmesAmzish/SteelDefectDetection)  
+**Team Development** | Sophomore Year (2025.2 - 2025.3) 
+
+- Implemented machine vision models using **Pytorch**.  
+- Designed an intuitive user interface with **Electron** and **Tailwind CSS**.  
+- Developed the backend using **Java Spring Boot** for web services.  
 
 ---
 
-### [DNNDisplay: Deep Learning Visualization System](#)  
-**Team Development** | Freshman to Sophomore Year (2024.6 - 2024.12)  
-- Developed the backend using **Java Spring Boot** for web services.  
-- Implemented machine learning models using **TensorFlow** and **scikit-learn**.  
-- Designed an intuitive user interface with **modern frontend frameworks**.  
+### [ValleyCommunity](https://github.com/HolmesAmzish/ValleyCommunity)  
+**Independent Development** | Freshman Year (2024.1 - 2024.3)  
+
+- Built an online community platform using **PHP**.
+- Designed a responsive frontend with **Bootstrap** and stored user data using **MySQL**.
+- Integrated features such as user registration, posts, and comments.
 
 ---
 
