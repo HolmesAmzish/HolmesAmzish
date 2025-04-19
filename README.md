@@ -2,13 +2,9 @@
 
 ## Profile
 
-💻 **Aspiring Software Engineer** | Passionate about Web Service, CV and Frontend.  
+💻 **Aspiring Software Engineer** | Passionate about Web Service, Machine Learning and Frontend.  
 
-**Email Contact**: [HolmesAmzish86@outlook.com](mailto:HolmesAmzish86@outlook.com)
-
-**Website**: [My Blog](http://blog.arorms.cn)
-
-**Education**: Undergraduate, IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University (江苏大学计算机科学与通信工程学院物联网工程)
+**Education**: Undergraduate, IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang (江苏大学计算机科学与通信工程学院物联网工程)
 
 **Age**: 20
 
@@ -33,10 +29,10 @@
 
 
 
-## Projects
+## Projects & Research
 
 
-### <img src="https://raw.githubusercontent.com/HolmesAmzish/SteelDefectDetection/refs/heads/master/view/icon/sdd-logo.png" width=5%>[Steel Defect Detection](https://github.com/HolmesAmzish/SteelDefectDetection)  
+### <img src="https://raw.githubusercontent.com/HolmesAmzish/SteelDefectDetection/refs/heads/master/view/icon/sdd-logo.png" width=4%>[Steel Defect Detection](https://github.com/HolmesAmzish/SteelDefectDetection)
 **Team Development** | Sophomore Year (2025.2 - 2025.3) 
 
 - Implemented machine vision models using **Pytorch**.  
@@ -52,14 +48,6 @@
 - Designed a responsive frontend with **Bootstrap** and stored user data using **MySQL**.
 - Integrated features such as user registration, posts, and comments.
 
----
+## 
 
-## Socials
-
-![X](https://img.shields.io/badge/X-%40HolmesAmzish-1DA1F2?style=flat-square&logo=x&logoColor=white) [@HolmesAmzish](https://x.com/HolmesAmzish)  
-
-![GitHub](https://img.shields.io/badge/GitHub-HolmesAmzish-%23181717?style=flat-square&logo=github&logoColor=white) [HolmesAmzish](https://github.com/HolmesAmzish)  
-
-![Email](https://img.shields.io/badge/Email-HolmesAmzish86%40outlook.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white) [HolmesAmzish86@outlook.com](mailto:HolmesAmzish86@outlook.com)
-
-![QQ](https://img.shields.io/badge/QQ-1272369577-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white)  
+<img src="https://img.shields.io/badge/X-%40HolmesAmzish-1DA1F2?style=flat-square&logo=x&logoColor=white"><img src="https://img.shields.io/badge/GitHub-HolmesAmzish-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-HolmesAmzish86%40outlook.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-1272369577-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
