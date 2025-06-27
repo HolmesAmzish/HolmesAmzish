@@ -2,29 +2,20 @@
 
 ## 基本信息
 
-电话：139****0588
+教育：江苏大学计算机科学与通信工程学院物联网工程
 
-邮箱：Holmesamzish86@outlook.com
-
-GitHub：https://github.com/HolmesAmzish
+QQ：1272369577	邮箱：Holmesamzish86@outlook.com	GitHub：https://github.com/HolmesAmzish
 
 ## 个人技能
 
 熟悉 Java、Python 等编程语言，熟悉对应开发环境与生态，包括 Maven 项目管理与 Python 虚拟环境管理（venv、conda）。
-
 掌握 熟练掌握 Spring Boot、Spring Security、Spring AI 等后端开发框架，具备微服务设计与安全控制能力。
-
 在项目中熟悉了解了各种数据库，常见的 SQL/NoSQL 如 MySQL、SQLite、MongoDB，以及与各种编程语言（如MyBatis）的搭配。
-
 具备一定传统机器学习算法和深度学习知识，了解 scikit-learn、XGBoost、PyTorch、TensorFlow 等主流框架。
-
 拥有大语言模型开发经验，包括模型微调、RAG 架构实现、上下文协议设计及与应用系统集成。
-
 熟悉前端开发三件套（HTML、CSS、JavaScript）及现代框架 React、Tailwind CSS 和 Electron 应用打包。
-
 具备服务器运维以及 Linux 操作经验，掌握各类基本服务搭建。同时有虚拟化和云计算使用经验，例如阿里云物联网云平台、无服务器架构等。
-
-英语良好，具备英文技术文档论文与信息检索能力，习惯快速学习新知识与工具。
+有良好的英语基础，裸考CET6 500+，具备英文技术文档论文与信息检索能力，习惯快速学习新知识与工具。
 
 ## 项目经验
 
@@ -50,12 +41,12 @@ GitHub：https://github.com/HolmesAmzish
 
 **竞赛**
 
-2025 蓝桥杯程序设计大赛（Python）- 省级二等奖
-
-2025 全国大学生信息安全竞赛（数据安全方向）- 国家级三等奖
-
 2025 全国大学生服务外包创新创业大赛 - 国家级三等奖
+2025 信息安全与对抗技术竞赛（数据安全）- 国家级三等奖
+2025 蓝桥杯程序设计大赛（Python）- 省级二等奖
+2025 中国机器人及人工智能大赛 - 省级三等奖
 
 **科研**
 
+软件著作权一项。
 参加、主持大创一项，学校科研立项三项，主要涉及物联网、机器视觉、大语言模型。
