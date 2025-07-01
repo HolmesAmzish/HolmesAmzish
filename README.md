@@ -33,9 +33,15 @@ Currently working on **Computer Vision** and **Large Language Model**.
 
 ## Projects & Research
 
+### [AVCS - Anti-Fraud Virtual Customer Service](https://github.com/HolmesAmzish/AntifraudVirtualCustomerService)
+**Competition Project** | Sophomore Year (Apr 2025 – Jun 2025)
+
+- Fine-tuned Qwen3-8B using LLaMA-Factory for domain-specific antifraud detection and dialogue generation.
+- Developed backend with Spring AI for LLM integration and Spring Security for robust authentication and access control.
+- Designed and implemented the frontend using React, focusing on user-friendly interfaces for virtual customer service interactions.
 
 ### <img src="https://raw.githubusercontent.com/HolmesAmzish/SteelDefectDetection/refs/heads/master/view/icon/sdd-logo.png" width=4%>[Steel Defect Detection](https://github.com/HolmesAmzish/SteelDefectDetection)
-**Team Development** | Sophomore Year (2025.2 - 2025.3) 
+**Competition Project** | Sophomore Year (2025.2 - 2025.3) 
 
 - Implemented machine vision models using **Pytorch**.  
 - Designed an intuitive user interface with **Electron** and **Tailwind CSS**.  
@@ -44,7 +50,7 @@ Currently working on **Computer Vision** and **Large Language Model**.
 ---
 
 ### [ValleyCommunity](https://github.com/HolmesAmzish/ValleyCommunity)  
-**Independent Development** | Freshman Year (2024.1 - 2024.3)  
+**Competition Project** | Freshman Year (2024.1 - 2024.3)  
 
 - Built an online community platform using **PHP**.
 - Designed a responsive frontend with **Bootstrap** and stored user data using **MySQL**.
