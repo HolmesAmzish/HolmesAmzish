@@ -34,7 +34,7 @@ Currently working on **Computer Vision** and **Large Language Model**.
 ## Projects & Research
 
 ### [Ar Enterprise Resource Planning](https://github.com/HolmesAmzish/ArERP)  
-**Internship Project** | Freshman Year (2024.1 - 2024.3)  
+**Internship Project** | Junior Year (2025.7 - 2025.8)  
 
 -   Built using the **ASP.NET Core** framework for robust web application development.
 -   Utilized **Entity Framework Core** and **LINQ** for efficient data persistence and querying for **Microsoft SQL Server**.
@@ -56,5 +56,4 @@ Currently working on **Computer Vision** and **Large Language Model**.
 
 ## Contacts
 
-<img src="https://github-readme-stats.vercel.app/api?username=HolmesAmzish&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 54%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolmesAmzish&layout=compact&theme=transparent" alt="Top Langs" style="width: 41%;">
+<img src="https://img.shields.io/badge/X-%40HolmesAmzish-1DA1F2?style=flat-square&logo=x&logoColor=white"><img src="https://img.shields.io/badge/GitHub-HolmesAmzish-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-HolmesAmzish86%40outlook.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-1272369577-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
