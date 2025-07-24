@@ -1,4 +1,4 @@
-# HolmesAmzish-Csharp
+# HolmesAmzish
 
 ## Profile
 
@@ -24,16 +24,10 @@ Currently working on **Computer Vision** and **Large Language Model**.
 
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HolmesAmzish&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 54%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolmesAmzish&layout=compact&theme=transparent" alt="Top Langs" style="width: 41%;">
-</div>
-
-
 
 ## Projects & Research
 
-### [Ar Enterprise Resource Planning](https://github.com/HolmesAmzish/ArERP)  
+### [AR Enterprise Resource Planning](https://github.com/HolmesAmzish/ArERP)  
 **Internship Project** | Junior Year (2025.7 - 2025.8)  
 
 -   Built using the **ASP.NET Core** framework for robust web application development.
@@ -41,7 +35,7 @@ Currently working on **Computer Vision** and **Large Language Model**.
 -   Leveraged **Bootstrap** and **jQuery** to create a responsive and interactive user interface.
 
 ### [AVCS - Anti-Fraud Virtual Customer Service](https://github.com/HolmesAmzish/AntifraudVirtualCustomerService)
-**Competition Project** | Sophomore Year (Apr 2025 – Jun 2025)
+**Competition Project** | Sophomore Year (2025.4 – 2025.6)
 
 - Fine-tuned Qwen3-8B using LLaMA-Factory for domain-specific antifraud detection and dialogue generation.
 - Developed backend with Spring AI for LLM integration and Spring Security for robust authentication and access control.
