@@ -2,52 +2,32 @@
 
 ## Profile
 
-Aspiring Software Engineer | Passionate about **Artificial Intelligence** and **Software Engineering**
-
 **Education**: Undergraduate, IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang (江苏大学计算机科学与通信工程学院物联网工程)
 
-Currently working on **Computer Vision** and **Large Language Model**.
+**Age**: 22
 
-**Age**: 20
+## Technical Stacks
 
-## Technical Skills
+Language: Java, Kotlin, C#, Python, TypeScript, PHP
 
-**Artificial Intelligence**: 
+Maintaince: Linux, Clougflare, Aliyun, Nginx
 
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/ONNX-%239077E7.svg?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"> <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"> <img src="https://img.shields.io/badge/Spring_AI-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"> <img src="https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
+Database: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB
 
-**Software Engineering**: 
+Backend:
 
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot"> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET Core"> <img src="https://img.shields.io/badge/EF_Core-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt="EntityFramework Core"> <img src="https://img.shields.io/badge/Razor-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white" alt="Razor">
+- SpringBoot, Spring JPA, Spring Security, Spring AI
 
-**Tools and Maintenance**: 
+- ASP.NET Core, EF.NET Core, Razor page, Blazor
 
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+- RabbitMQ
 
+Frontend: React.js, TailwindCSS, Electron
 
-## Projects & Research
-
-### [AR Enterprise Resource Planning](https://github.com/HolmesAmzish/ArERP)  
-**Internship Project** | Junior Year (2025.7 - 2025.8)  
-
--   Built using the **ASP.NET Core** framework for robust web application development.
--   Utilized **Entity Framework Core** and **LINQ** for efficient data persistence and querying for **Microsoft SQL Server**.
--   Leveraged **Bootstrap** and **jQuery** to create a responsive and interactive user interface.
-
-### [AVCS - Anti-Fraud Virtual Customer Service](https://github.com/HolmesAmzish/AntifraudVirtualCustomerService)
-**Competition Project** | Sophomore Year (2025.4 – 2025.6)
-
-- Fine-tuned Qwen3-8B using LLaMA-Factory for domain-specific antifraud detection and dialogue generation.
-- Developed backend with Spring AI for LLM integration and Spring Security for robust authentication and access control.
-- Designed and implemented the frontend using React, focusing on user-friendly interfaces for virtual customer service interactions.
-
-### [Steel Defect Detection](https://github.com/HolmesAmzish/SteelDefectDetection)
-**Competition Project** | Sophomore Year (2025.2 - 2025.3)  
-
-- Implemented machine vision models using **Pytorch**.  
-- Designed an intuitive user interface with **Electron** and Tailwind **CSS**.  
-- Developed the backend using Java **Spring Boot** for web services.  
+MachineLearning: PyTorch, TorchLib, Keras, HuggingFace, ScikitLearn
 
 ## Contacts
 
-<img src="https://img.shields.io/badge/X-%40HolmesAmzish-1DA1F2?style=flat-square&logo=x&logoColor=white"><img src="https://img.shields.io/badge/GitHub-HolmesAmzish-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-HolmesAmzish86%40outlook.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-1272369577-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
+Email: HolmesAmzish86@outlook.com
+
+Visit my blog: https://blog.arorms.cn
