@@ -8,23 +8,27 @@
 
 ## Technical Stacks
 
-Language: Java, Kotlin, C#, Python, TypeScript, PHP
+Language: Java/Kotlin, Python, C#, TypeScript, C++, PHP
 
-Maintaince: Linux, Clougflare, Aliyun, Nginx
+Maintaince: Linux, Git, Bash/Zsh, Clougflare, Aliyun, Nginx
 
 Database: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB
 
 Backend:
 
-- SpringBoot, Spring JPA, Spring Security, Spring AI
+- SpringBoot, Spring Data JPA, MyBatis, Spring Security, Spring AI
 
 - ASP.NET Core, EF.NET Core, Razor page, Blazor
 
-- RabbitMQ
+- Redis, RabbitMQ
 
-Frontend: React.js, TailwindCSS, Electron
+Frontend: React.js, TailwindCSS, Axios, Electron
 
 MachineLearning: PyTorch, TorchLib, Keras, HuggingFace, ScikitLearn
+
+## Activity
+
+![wakapi](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg)
 
 ## Contacts
 
