@@ -28,8 +28,12 @@ MachineLearning: PyTorch, TorchLib, Keras, HuggingFace, ScikitLearn
 
 ## Coding Activity
 
-![Wakapi Activity Chart](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg#gh-light-mode-only)
-![Wakapi Activity Chart](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg?dark=true#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg?dark=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg">
+  <img alt="Wakapi Activity Chart" src="https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg">
+</picture>
+
 ![all_time](https://wakapi.arorms.cn/api/badge/Cacciatore/interval:all_time)
 
 ## Contacts
