@@ -26,9 +26,11 @@ Frontend: React.js, TailwindCSS, Axios, Electron
 
 MachineLearning: PyTorch, TorchLib, Keras, HuggingFace, ScikitLearn
 
-## Activity
+## Coding Activity
 
-![wakapi](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg)
+![Wakapi Activity Chart](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg#gh-light-mode-only)
+![Wakapi Activity Chart](https://wakapi.arorms.cn/api/activity/chart/Cacciatore.svg?dark=true#gh-dark-mode-only)
+![all_time](https://wakapi.arorms.cn/api/badge/Cacciatore/interval:all_time)
 
 ## Contacts
 
