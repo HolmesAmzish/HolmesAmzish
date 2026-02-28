@@ -4,7 +4,7 @@
 
 **Education**: Undergraduate, IoT Engineering, School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang (江苏大学计算机科学与通信工程学院物联网工程)
 
-**Age**: 22
+**Age**: 21
 
 ## Technical Stacks
 
@@ -12,7 +12,7 @@ Language: Java/Kotlin, Python, C#, TypeScript, C++, PHP
 
 Maintaince: Linux, Git, Bash/Zsh, Clougflare, Aliyun, Nginx
 
-Database: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB
+Database: PostgreSQL, Microsoft SQL Server, MySQL, Redis, PostGIS
 
 Backend:
 

@@ -1,0 +1,129 @@
+%-------------------------
+% Resume in LaTeX
+% Author: HolmesAmzish
+% License: MIT
+%------------------------
+
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{ctex}
+
+% Define colors
+\definecolor{primary}{RGB}{0, 82, 147}
+\definecolor{secondary}{RGB}{100, 100, 100}
+\definecolor{accent}{RGB}{0, 102, 204}
+
+% Section formatting
+\titleformat{\section}
+{\Large\bfseries\color{primary}\uppercase}
+{}
+{0em}
+{}
+[\titlerule]
+
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\techstack}[1]{\textit{\small{\textcolor{secondary}{技术栈：#1}}}}
+\newcommand{\projectdate}[1]{\hfill\textit{\small{\textcolor{secondary}{#1}}}}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=primary,
+	filecolor=primary,      
+	urlcolor=primary,
+	pdftitle={HolmesAmzish - Resume},
+	pdfpagemode=FullScreen,
+}
+
+\pagestyle{empty}
+
+\begin{document}
+	
+	% Header
+	\begin{center}
+		{\large\bfseries\color{primary} 盛子涵} \quad {\normalsize\color{secondary} 物联网工程 | 全栈开发 \& AI 应用} \\[8pt]
+		\faIcon{university} 江苏大学 \quad
+		\faIcon{envelope} \href{mailto:Holmesamzish86@outlook.com}{Holmesamzish86@outlook.com} \quad
+		\faIcon{globe} \href{https://blog.arorms.cn}{blog.arorms.cn} \quad
+		\faIcon{github} \href{https://github.com/HolmesAmzish}{github.com/HolmesAmzish} \quad
+		%\faIcon{weixin} arormscn
+	\end{center}
+	
+	%\vspace{4pt}
+	
+	% Education
+	\section{教育背景}
+	\textbf{江苏大学} \hfill 2023.09 - 2027.06 \\
+	计算机科学与通信工程学院 \quad 物联网工程（本科）\quad CET-6: 500+
+	
+	% Skills
+	\section{技术能力}
+	\begin{tabularx}{\textwidth}{@{}l X@{}}
+		\textbf{编程语言} & Java/Kotlin，Python，C\#，TypeScript \\
+		\textbf{后端开发} & ASP.NET, Spring Boot/Data/Security/AI \\
+		\textbf{数据存储} & PostgreSQL, SQL Server, Redis, PostGIS, Hibernate, MyBatis, Entity Framework \\
+		\textbf{系统运维} & Linux 以及服务器相关各种服务，阿里云, Cloudflare \\
+		\textbf{AI/ML} & PyTorch, 目标检测, 图像分割, LLM应用开发, MCP协议设计 \\
+		\textbf{前端} & Typescript, React, Tailwind CSS, Electron, Vite\\
+	\end{tabularx}
+	
+	% Projects
+	\section{项目经历}
+	
+	\textbf{钢铁零部件缺陷检测系统} \projectdate{2025.03 - 2025.04} \\
+	\techstack{PyTorch, Flask, Spring Boot, Spring Data JPA, Electron, MCP}
+	\begin{itemize}[leftmargin=15pt, itemsep=2pt, topsep=4pt]
+		\resumeItem{设计双阶段检测模型：ResNet-50 初筛 + EfficientNet-B3 FPN 像素级语义分割，实现工业缺陷高精度识别}
+		\resumeItem{构建 LLM 智能分析链路：基于 MCP 协议开放数据接口，使大模型能够实时调用检测结果进行根因分析}
+		\resumeItem{独立完成后端服务架构（Spring Boot）与桌面端应用（Electron），实现算法模型到业务系统}
+	\end{itemize}
+	
+	\vspace{6pt}
+	
+	\textbf{高光谱图像信息管理系统} \projectdate{2026.01 - 至今} \\
+	\techstack{Python/Pydantic, Spring Boot, PostgreSQL/PostGIS, Redis, React}
+	\begin{itemize}[leftmargin=15pt, itemsep=2pt, topsep=4pt]
+		\resumeItem{基于 Pydantic 构建类型安全的 Python 数据处理管道，集成 ASRNet 实现高光谱图像智能分割}
+		\resumeItem{设计多级存储架构：Redis 缓存高频访问数据，PostgreSQL + PostGIS 管理空间信息与分割结果}
+		\resumeItem{利用 Spring Boot 设计前后端接口与 React 前端可视化模块开发}
+	\end{itemize}
+	
+	\vspace{6pt}
+	
+	\textbf{ERP 企业资源管理系统} \projectdate{2025.07 - 2025.08 | 暑期实习} \\
+	\techstack{ASP.NET Core, Entity Framework, SQL Server, Tailwind CSS, ECharts}
+	\begin{itemize}[leftmargin=15pt, itemsep=2pt, topsep=4pt]
+		\resumeItem{针对老旧 ADO 框架复杂的存储过程逻辑，引入 Entity Framework ORM 解耦数据库操作，降低系统复杂度}
+		\resumeItem{在 Linux 平台完成 .NET Core 后端重构与 SQL Server 部署，尝试跨平台迁移}
+		\resumeItem{引入 Tailwind CSS 重构 UI，集成 ECharts 实现数据可视化看板，提升用户体验}
+	\end{itemize}
+	
+	% Honors
+	\section{荣誉奖项}
+	
+	\begin{multicols}{2}
+		\begin{itemize}[leftmargin=15pt, itemsep=2pt, topsep=4pt]
+			\item \textbf{国家级一等奖} \\ 全国大学生数字媒体科技作品大赛
+			\item \textbf{国家级二等奖} \\ 睿抗机器人开发者大赛（AI算法）
+			\item \textbf{国家级二等奖} \\ 信息安全与对抗技术竞赛
+			\item \textbf{国家级三等奖} \\ 全国大学生服务外包创新创业大赛
+			% \item \textbf{省级二等奖} \\ 蓝桥杯程序设计大赛（Python）
+			% \item \textbf{省级三等奖} \\ 中国机器人及人工智能大赛
+		\end{itemize}
+	\end{multicols}
+	
+\end{document}
