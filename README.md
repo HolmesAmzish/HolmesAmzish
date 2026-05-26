@@ -6,25 +6,12 @@
 
 **Age**: 21
 
+![7cfb68fa07e900f6e9530103fcfd8135.jpg](https://minio.arorms.cn/notes/20260526221099_7cfb68fa07e900f6e9530103fcfd8135.jpg)
+
+
 ## Technical Stacks
 
 Language: Java/Kotlin, Python, C#, TypeScript, C++, PHP
-
-Maintaince: Linux, Git, Bash/Zsh, Clougflare, Aliyun, Nginx
-
-Database: PostgreSQL, Microsoft SQL Server, MySQL, Redis, PostGIS
-
-Backend:
-
-- SpringBoot, Spring Data JPA, MyBatis, Spring Security, Spring AI
-
-- ASP.NET Core, EF.NET Core, Razor page, Blazor
-
-- Redis, RabbitMQ
-
-Frontend: React.js, TailwindCSS, Axios, Electron
-
-MachineLearning: PyTorch, TorchLib, Keras, HuggingFace, ScikitLearn
 
 ## Coding Activity
 
