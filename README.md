@@ -6,7 +6,7 @@
 
 **Age**: 21
 
-![7cfb68fa07e900f6e9530103fcfd8135.jpg](https://minio.arorms.cn/notes/20260526221099_7cfb68fa07e900f6e9530103fcfd8135.jpg)
+![meow](https://minio.arorms.cn/blog-oss/originals/855877c2-ac25-4b33-92c9-dd1d395dc413.jpg)
 
 
 ## Technical Stacks
@@ -25,6 +25,6 @@ Language: Java/Kotlin, Python, C#, TypeScript, C++, PHP
 
 ## Contacts
 
-Email: HolmesAmzish86@outlook.com
+Email: HolmesAmzish86@gmail.com
 
 Visit my blog: https://blog.arorms.cn
